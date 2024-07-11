@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D7D271-0438-4383-BB0F-A40F333BDA22}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\usuario\\desktop\\nueva carpeta\\calidad proyecto\\calidad-pruebas-software\\capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D1D7D271-0438-4383-BB0F-A40F333BDA22}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\capapresentaciontienda\\views\\tienda\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5778FADC-CA34-41A4-B9BA-76F128441A85}|CapaPresentacionTienda\\CapaPresentacionTienda.csproj|solutionrelative:capapresentaciontienda\\views\\tienda\\detalleproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionAdmin\\Web.config",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Web.config",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionAdmin\\Web.config",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-09T22:31:47.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Web.config",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Web.config",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Web.config",
+              "RelativeToolTip": "CapaPresentacionTienda\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-09T22:31:26.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAAABkBAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T23:49:47.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\Carrito.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T23:45:33.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Nueva carpeta\\Calidad Proyecto\\Calidad-Pruebas-Software\\CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "RelativeToolTip": "CapaPresentacionTienda\\Views\\Tienda\\DetalleProducto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T23:45:32.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
